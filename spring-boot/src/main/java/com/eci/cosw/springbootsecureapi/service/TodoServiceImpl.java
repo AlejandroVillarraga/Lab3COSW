@@ -1,7 +1,6 @@
 package com.eci.cosw.springbootsecureapi.service;
 
 import com.eci.cosw.springbootsecureapi.model.Todo;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

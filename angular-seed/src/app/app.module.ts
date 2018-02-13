@@ -13,6 +13,7 @@ import {PageNotFoundComponent} from './pages/page-not-found/page-not-found.compo
 
 import {UserListPageComponent}from './pages/user-list-page/user-list-page.component';
 import { UserEditPageComponent}from './pages/user-edit-page/user-edit-page.component';
+import { SignInPageComponent } from './pages/sign-in/sign-in-page.component';
 
 import {NgbModule}from '@ng-bootstrap/ng-bootstrap';
 
@@ -20,13 +21,24 @@ import {TodoService}from './services/todo.service';
 import {UserService}from './services/user.service';
 import { FormsModule } from '@angular/forms';
 
+import { AppConfiguration } from './common/config/app-configuration.service';
+import { INITIAL_CONFIG } from './common/config/initial-config';
+import { HttpModule } from '@angular/http';
+import { APIService } from './common/api.service';
+import { AuthService } from './common/auth.service';
+import { AppDataService } from './common/app-data.service';
+
+
 const ROUTES = [
-{path: '', component: HomePageComponent},
-{path: 'tasks', component: TaskListPageComponent},
-{path: 'users', component: UserListPageComponent},
-{path: 'edit', component: TaskEditPageComponent },
-{path: 'editusers', component: UserEditPageComponent },
-{path: '**', component: PageNotFoundComponent}]
+{ path: '', component: SignInPageComponent },
+{ path: 'home', component: HomePageComponent },
+{path: 'edit', component: TaskEditPageComponent, canActivate: [AuthService], },
+{path: 'editusers', component: UserEditPageComponent, canActivate: [AuthService], },
+{path: 'tasks', component: TaskListPageComponent, canActivate: [AuthService],},
+{path: 'users', component: UserListPageComponent,canActivate: [AuthService],},
+{path: '**', component: PageNotFoundComponent}
+]
+
 
 @NgModule({
   declarations: [
@@ -36,16 +48,32 @@ const ROUTES = [
     TaskEditPageComponent,
     PageNotFoundComponent,
     UserListPageComponent,
-    UserEditPageComponent
+    UserEditPageComponent,
+    SignInPageComponent
   ],
   imports: [
+    HttpModule,
     BrowserModule,
     NgbModule.forRoot(),
     RouterModule.forRoot(ROUTES),
     ReactiveFormsModule,
     FormsModule
   ],
-  providers: [TodoService, UserService, FormsModule],
+  providers: [
+    {
+      provide: INITIAL_CONFIG,
+      useValue: {
+        apiURL: 'http://localhost:8080'
+      }
+    },
+    TodoService,
+    AppConfiguration,
+    APIService,
+    AuthService,
+    AppDataService,
+    UserService,
+    FormsModule
+  ],
   bootstrap: [AppComponent]
 })
 

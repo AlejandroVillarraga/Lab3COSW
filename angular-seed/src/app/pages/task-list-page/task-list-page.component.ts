@@ -1,7 +1,6 @@
-import{Component, OnInit}from '@angular/core';
-
-import {TodoService}from '../../services/todo.service';
-import {Todo}from '../../models/todo';
+import { Component, OnInit } from '@angular/core';
+import { TodoService } from '../../services/todo.service';
+import { Todo } from '../../models/todo';
 
 @Component({
   selector: 'app-task-list-page',
@@ -10,13 +9,14 @@ import {Todo}from '../../models/todo';
 })
 export class TaskListPageComponent implements OnInit {
   private todos: Todo[] = [];
-
-  constructor(public todoService: TodoService) {
+  constructor(public todoService: TodoService)  {
 
   }
 
-  ngOnInit() {
-    this.todos = this.todoService.list();
+ ngOnInit() {
+    this.todoService.list().subscribe(todosResponse=>{
+      this.todos = todosResponse;
+    })
   }
 
 }

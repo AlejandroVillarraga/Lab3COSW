@@ -21,9 +21,13 @@ export class UserEditPageComponent implements OnInit {
 
   }
 
+
   ngOnInit() {
     this.userForm = this.formBuilder.group({
-      name: '',
+      username: '',
+      email: '',
+      password: '',
+      firstname: '',
       lastname: '',
       image: ''
     });
@@ -31,12 +35,21 @@ export class UserEditPageComponent implements OnInit {
 
   onSubmit() {
     this.userService.create(
-      this.userForm.get('name').value,
+      this.userForm.get('username').value,
+      this.userForm.get('email').value,
+      this.userForm.get('password').value,
+      this.userForm.get('firstname').value,
       this.userForm.get('lastname').value,
       this.userForm.get('image').value
-    );
+      ).subscribe(response => {
+        this.router.navigate(['users']);
+      }, error => {
+        console.log('Error Posting in: ' + (error && error.message ? error.message : ''));
+      })
 
-    this.router.navigate(['/users']);
-  }
+    }
+
+
+
 
 }

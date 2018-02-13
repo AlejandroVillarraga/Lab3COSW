@@ -5,6 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.PostConstruct;
+import javax.servlet.ServletException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,9 +14,7 @@ import java.util.List;
  * 8/21/17.
  */
 @Service
-public class UserServiceImpl
-    implements UserService
-{
+public class UserServiceImpl implements UserService {
 
     private List<User> users = new ArrayList<>();
 
@@ -28,9 +27,8 @@ public class UserServiceImpl
     @PostConstruct
     private void populateSampleData()
     {
-        users.add( new User( "test@mail.com", "password", "Andres", "Perez" ) );
+        users.add( new User("av", "test@mail.com", "password", "Andres", "Perez" ,"https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/p160x160/15590330_1889204337980981_7135372285958833797_n.jpg?oh=e9a8ee54c5fd489d7f73dfea9025d662&oe=5B1D4B56"));
     }
-
 
 
     @Override
@@ -63,7 +61,7 @@ public class UserServiceImpl
 
     private boolean registredUser(String username) {
         boolean isRegistred = false;
-        for (int i =0;i<users.size() && !ans ;i++){
+        for (int i =0;i<users.size() && !isRegistred ;i++){
             isRegistred=users.get(i).getUsername().equals(username);
         }
         return isRegistred;
@@ -88,5 +86,5 @@ public class UserServiceImpl
         return users.get( 0 );
     }
 
-}
+
 }

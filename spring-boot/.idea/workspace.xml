@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b76c095-1ef9-4340-9725-16f9b41fb79f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.0.2/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.5/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.5/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.5/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/dist/inline.bundle.js.map" afterPath="$PROJECT_DIR$/angular-seed/dist/inline.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/dist/main.bundle.js" afterPath="$PROJECT_DIR$/angular-seed/dist/main.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/dist/main.bundle.js.map" afterPath="$PROJECT_DIR$/angular-seed/dist/main.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/src/app/common/api.service.ts" afterPath="$PROJECT_DIR$/angular-seed/src/app/common/api.service.ts" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts" afterPath="$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.ts" afterPath="$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.ts" />
-      <change beforePath="$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts" afterPath="$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/eci/cosw/springbootsecureapi/controller/TodoController.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/eci/cosw/springbootsecureapi/controller/TodoController.class" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/inline.bundle.js.map" afterPath="$PROJECT_DIR$/build/resources/main/static/inline.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/main.bundle.js" afterPath="$PROJECT_DIR$/build/resources/main/static/main.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/static/main.bundle.js.map" afterPath="$PROJECT_DIR$/build/resources/main/static/main.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java" afterPath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java" afterPath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/inline.bundle.js.map" afterPath="$PROJECT_DIR$/src/main/resources/static/inline.bundle.js.map" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.bundle.js" afterPath="$PROJECT_DIR$/src/main/resources/static/main.bundle.js" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/main.bundle.js.map" afterPath="$PROJECT_DIR$/src/main/resources/static/main.bundle.js.map" />
-    </list>
+    <list default="true" id="9b76c095-1ef9-4340-9725-16f9b41fb79f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -54,40 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding>
-                <element signature="e#412#413#0" expanded="true" />
-                <element signature="e#446#447#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#694#695#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#855#856#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todo.service.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.service.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/users.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -106,11 +42,40 @@
       <file leaf-file-name="TodoController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="76" column="40" lean-forward="false" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
               <folding>
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#873#874#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2367#2368#0" expanded="true" />
+                <element signature="e#2412#2413#0" expanded="true" />
+                <element signature="e#3436#3437#0" expanded="true" />
+                <element signature="e#3492#3493#0" expanded="true" />
+                <element signature="e#3543#3544#0" expanded="true" />
+                <element signature="e#3586#3587#0" expanded="true" />
+                <element signature="e#3655#3656#0" expanded="true" />
+                <element signature="e#3711#3712#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,50 +84,48 @@
       <file leaf-file-name="TodoServiceImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="30">
+              <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-241">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="525">
+              <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task-edit-page.component.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts">
+      <file leaf-file-name="app-configuration.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/app-configuration.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.interface.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/config.interface.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initial-config.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/initial-config.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="70" lean-forward="false" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -184,7 +147,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -202,14 +165,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="spring-boot-secure-api" />
+              <option name="name" value="spring-boot" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="spring-boot-secure-api" />
+                <option name="name" value="spring-boot" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -223,7 +186,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'spring-boot-secure-api'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'spring-boot'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -237,7 +200,7 @@
                 <option name="name" value="cleanEclipseClasspath" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays the sub-projects of root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -252,12 +215,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'spring-boot-secure-api'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'spring-boot'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -296,7 +259,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'spring-boot-secure-api'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'spring-boot'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -306,7 +269,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays the tasks runnable from root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -325,7 +288,7 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependency management declared in root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays the dependency management declared in root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyManagement" />
               </ExternalTaskPojo>
@@ -340,7 +303,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -365,7 +328,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays all dependencies declared in root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -405,7 +368,7 @@
                 <option name="name" value="eclipseProject" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'spring-boot-secure-api'." />
+                <option name="description" value="Displays the properties of root project 'spring-boot'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -416,7 +379,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3035875173000" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1880436795" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="4169347756" />
       </map>
@@ -433,10 +395,10 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.0.BUILD-SNAPSHOT/dd9b667ed9c736013ce560c511dfc39159e2778b/spring-boot-gradle-plugin-2.0.0.BUILD-SNAPSHOT-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.0.BUILD-SNAPSHOT/504984ec8b5d46988e37861c8068aafc90173c52/spring-boot-gradle-plugin-2.0.0.BUILD-SNAPSHOT.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.0.BUILD-SNAPSHOT/e058a466ab3d524089b44e31f7391e1852e0e1be/spring-boot-loader-tools-2.0.0.BUILD-SNAPSHOT-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.0.BUILD-SNAPSHOT/94f861f3b7be26421dcdb266aa1ace1167149452/spring-boot-loader-tools-2.0.0.BUILD-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.0.BUILD-SNAPSHOT/addd145c261ccc00b61197f806c861a0895c1617/spring-boot-gradle-plugin-2.0.0.BUILD-SNAPSHOT-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.0.0.BUILD-SNAPSHOT/4d4cd2d60a9c9557c4de7e6b6a4046ddf6e69188/spring-boot-gradle-plugin-2.0.0.BUILD-SNAPSHOT.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.0.BUILD-SNAPSHOT/6e363cd27efff8167493a25a4efd853fd7151409/spring-boot-loader-tools-2.0.0.BUILD-SNAPSHOT-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.0.0.BUILD-SNAPSHOT/b1508bfb4279eac5eb1a84e65c22e799593b68c3/spring-boot-loader-tools-2.0.0.BUILD-SNAPSHOT.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.4.RELEASE/f56e13eea5c5d3640efb34dc0f55b1369000fe32/dependency-management-plugin-1.0.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.4.RELEASE/f5b1df47ed5f708faa4d2fe0a71eb7fd36e11696/dependency-management-plugin-1.0.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.14/43a23e357fa7b187c261520914c0b001ea1a62a2/commons-compress-1.14-sources.jar" />
@@ -453,141 +415,141 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="spring-boot-secure-api" />
+              <option name="name" value="spring-boot" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/workers" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/installation-beacon" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-cache-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/composite-builds" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ear" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/tooling-api-builders" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/logging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/jvm-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-android-performance-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/process-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/cli" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-core-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-model-core-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-cache-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/process-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ide-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/workers" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/composite-builds" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/installation-beacon" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/logging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/jvm-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/src/internal-performance-testing" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-compiler-plugin-0.9.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/ant-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-resources-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-runtime-api-info-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-process-services-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-messaging-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-tooling-api-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-installation-beacon-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-native-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-launcher-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-0.9.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-base-services-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-wrapper-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-jvm-services-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-tooling-builders-0.9.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-base-services-groovy-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-logging-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-cli-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-model-groovy-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-docs-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-resources-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-messaging-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-tooling-models-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-logging-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/groovy-all-2.4.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugins-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-jvm-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-process-services-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-installation-beacon-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-base-services-groovy-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-native-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-jvm-services-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-model-core-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-docs-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-wrapper-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-core-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-script-kotlin-0.9.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-tooling-api-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-runtime-api-info-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-cli-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-launcher-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/gradle-base-services-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-scala-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-comparison-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-publish-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-test-kit-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-cache-http-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-native-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-osgi-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-diagnostics-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-code-quality-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-workers-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugin-use-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugin-development-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ide-play-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ide-native-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-init-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-javascript-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-native-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-jvm-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-scala-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-play-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-groovy-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-resources-s3-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-resources-http-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-base-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-native-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-jacoco-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-announce-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-dependency-management-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-composite-builds-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-jvm-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-java-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-reporting-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-tooling-api-builders-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-antlr-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-maven-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ide-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-signing-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ear-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ivy-4.0.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-base-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-test-kit-4.0.2.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-resources-sftp-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-resources-s3-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-groovy-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-signing-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugin-use-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-jvm-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-dependency-management-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-scala-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-jvm-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugin-development-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-native-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-cache-http-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-base-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-resources-http-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-base-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-plugins-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-antlr-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-native-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ide-play-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-maven-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-reporting-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-diagnostics-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-javascript-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-tooling-api-builders-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-jacoco-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-publish-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ivy-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-init-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-announce-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ear-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-build-comparison-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-osgi-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-language-java-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-ide-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-platform-jvm-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-testing-native-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-composite-builds-4.0.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.0.2-all/680wmhe205zg4atnbsmvvt28p/gradle-4.0.2/lib/plugins/gradle-workers-4.0.2.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -600,19 +562,12 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../Lab 1 COSW/angular-demo" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/config/JwtFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoService.java" />
         <option value="$PROJECT_DIR$/angular-seed/src/app/common/config/config.interafce.ts" />
         <option value="$PROJECT_DIR$/angular-seed/src/app/common/app-data.service.ts" />
@@ -630,15 +585,25 @@
         <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java" />
         <option value="$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts" />
         <option value="$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts" />
-        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/auth.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/app-data.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/api.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/config/app-configuration.service.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/config/config.interface.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/common/config/initial-config.ts" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1365" />
-    <option name="width" value="1602" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-1" />
+    <option name="width" value="961" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -659,104 +624,45 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="task-edit-page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="angular-seed" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="springbootsecureapi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootsecureapi" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -764,8 +670,8 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -773,8 +679,8 @@
               <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spring-boot-secure-api" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot-secure-api" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -785,11 +691,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Music/Lab2COSW/spring-boot-secure-api" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -851,6 +756,12 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -885,12 +796,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -909,7 +814,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1365" y="0" width="1602" height="900" extended-state="6" />
+    <frame x="-1" y="0" width="1922" height="1055" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -919,27 +824,27 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1859375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -950,6 +855,123 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#412#413#0" expanded="false" />
+            <element signature="e#446#447#0" expanded="false" />
+            <element signature="e#500#501#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#609#610#0" expanded="false" />
+            <element signature="e#654#655#0" expanded="false" />
+            <element signature="e#694#695#0" expanded="false" />
+            <element signature="e#730#731#0" expanded="false" />
+            <element signature="e#762#763#0" expanded="false" />
+            <element signature="e#813#814#0" expanded="false" />
+            <element signature="e#855#856#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -962,67 +984,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="53" column="38" lean-forward="false" selection-start-line="53" selection-start-column="38" selection-end-line="53" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/UserController.java">
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/app-data.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/home-page/home-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/auth.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/app-configuration.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/config.interface.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/initial-config.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.css" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/page-not-found/page-not-found.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/home-page/home-page.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/sign-in/sign-in-page.component.html" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/sign-in/sign-in-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/api.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/models/todo.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/users.service.ts" />
+    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="47" />
+        <state relative-caret-position="180">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/app-data.service.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/auth.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="495">
+          <caret line="33" column="16" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/home-page/home-page.component.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/app-data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="375">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.spec.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/api.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/auth.service.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/initial-config.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="60">
+          <caret line="4" column="70" lean-forward="false" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/app-configuration.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="43" lean-forward="false" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/config.interface.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/config.interface.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
@@ -1030,146 +1058,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/config/initial-config.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/page-not-found/page-not-found.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/home-page/home-page.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/sign-in/sign-in-page.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/sign-in/sign-in-page.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/common/api.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="24" column="3" lean-forward="false" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="16" lean-forward="false" selection-start-line="65" selection-start-column="16" selection-end-line="65" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-list-page/task-list-page.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/models/todo.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/todo.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/services/users.service.ts">
+    <entry file="file://$PROJECT_DIR$/../angular-seed/src/app/common/config/app-configuration.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/angular-seed/src/app/pages/task-edit-page/task-edit-page.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="525">
+          <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1184,51 +1100,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/TodoServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="51" lean-forward="false" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/TodoController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="709">
+          <caret line="76" column="40" lean-forward="false" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
           <folding>
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#3436#3437#0" expanded="true" />
+            <element signature="e#3492#3493#0" expanded="true" />
+            <element signature="e#3543#3544#0" expanded="true" />
+            <element signature="e#3586#3587#0" expanded="true" />
+            <element signature="e#3655#3656#0" expanded="true" />
+            <element signature="e#3711#3712#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#546#547#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/eci/cosw/springbootsecureapi/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-241">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
