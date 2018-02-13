@@ -27,7 +27,8 @@ public class UserServiceImpl implements UserService {
     @PostConstruct
     private void populateSampleData()
     {
-        users.add( new User("av", "test@mail.com", "password", "Andres", "Perez" ,"https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/p160x160/15590330_1889204337980981_7135372285958833797_n.jpg?oh=e9a8ee54c5fd489d7f73dfea9025d662&oe=5B1D4B56"));
+        users.add( new User("AndresPerez", "test@mail.com", "password", "Andres", "Perez" ,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBvCAXVAoaAU0yumoH1AJSLCJgFsAvghegU0U4wpBEIOdxRUVRA"));
+        users.add( new User("xyz", "xyz@mail.com", "password", "xyz", "xyz" ,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeyWgcCC6Mb5O4on4EfW-nK9EZH6nf7JskL10C9qeoE6_wkz5-"));
     }
 
 
@@ -74,9 +75,11 @@ public class UserServiceImpl implements UserService {
 
         for (int i =0;i<users.size();i++){
 
-            if(users.get(i).getEmail().equals(email)) localUser=users.get(i);
+            if(users.get(i).getEmail().equals(email)){
+                localUser=users.get(i);
+            }
         }
-        if (localUser==null)throw new ServletException ("no hay usuario con ese email");
+        if (localUser==null)throw new ServletException ("There is no email related to this user");
         return localUser;
     }
 

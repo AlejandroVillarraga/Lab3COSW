@@ -34,7 +34,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<nav class=\"navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse\">\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\"\n            data-target=\"#navbarCollapse\" aria-controls=\"navbarCollapse\"\n            aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n        <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <a class=\"navbar-brand\" href=\"#\">COSW Angular4</a>\n    <div class=\"collapse navbar-collapse\" id=\"navbarCollapse\">\n        <ul class=\"navbar-nav mr-auto\">\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/\" routerLink=\"/\">Home</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/tasks\" routerLink=\"/tasks\">Tasks</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/edit\" routerLink=\"/edit\">CreateTask</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/users\" routerLink=\"/users\">Users</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/editusers\" routerLink=\"/editusers\">Edit Users</a>\n            </li>\n            <li *ngIf=\"isLoggedIn()\" class=\"nav-item\">\n                <a href=\"#\" class=\"nav-link\" (click)=\"signOut()\">(Sign Out)</a>\n            </li>\n        </ul>\n\n\n        <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n                <ul class=\"navbar-nav mr-auto\">\n                    <li class=\"nav-item active\">\n                        <a class=\"nav-link\" href=\"#\">Home <span class=\"sr-only\">(current)</span></a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" href=\"#\">Link</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link disabled\" href=\"#\">Disabled</a>\n                    </li>\n                </ul>\n                <form class=\"form-inline my-2 my-lg-0\" #navForm=\"ngForm\">\n                    <input class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\" aria-label=\"Search\">\n                    <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\" (click)=\"search(modal)\">Search</button>\n                </form>\n            </div>\n        </nav>\n\n\n    </div>\n\n</nav>\n\n<div class=\"container\">\n\n    <router-outlet></router-outlet>\n</div>\n\n<ng-template #modal id=\"modal\">\n    <div class=\"modal-header\" ng-model=\"modal\">\n        <h4 class=\"modal-title\">Mensaje</h4>\n    </div>\n    <div class=\"modal-body\" [innerHTML]=\"modalBody\">\n    </div>\n</ng-template>"
+module.exports = "<nav class=\"navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse\">\n    <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\"\n            data-target=\"#navbarCollapse\" aria-controls=\"navbarCollapse\"\n            aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n        <span class=\"navbar-toggler-icon\"></span>\n    </button>\n    <a class=\"navbar-brand\" href=\"#\">COSW Angular4</a>\n    <div class=\"collapse navbar-collapse\" id=\"navbarCollapse\">\n        <ul class=\"navbar-nav mr-auto\">\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/\" routerLink=\"/\">Home</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/tasks\" routerLink=\"/tasks\">Tasks</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/edit\" routerLink=\"/edit\">CreateTask</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/users\" routerLink=\"/users\">Users</a>\n            </li>\n            <li class=\"nav-item\">\n                <a class=\"nav-link\" routerLinkActive=\"/editusers\" routerLink=\"/editusers\">Edit Users</a>\n            </li>\n            <li *ngIf=\"isLoggedIn()\" class=\"nav-item\">\n                <a href=\"#\" class=\"nav-link\" (click)=\"signOut()\">Sign Out</a>\n            </li>\n        </ul>\n\n\n        <nav class=\"navbar navbar-expand-lg navbar-light bg-light\">\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n                <span class=\"navbar-toggler-icon\"></span>\n            </button>\n            <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n                <ul class=\"navbar-nav mr-auto\">\n                    <li class=\"nav-item active\">\n                        <a class=\"nav-link\" href=\"#\">Home <span class=\"sr-only\">(current)</span></a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" href=\"#\">Link</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link disabled\" href=\"#\">Disabled</a>\n                    </li>\n                </ul>\n                <form *ngIf=\"isLoggedIn()\" (ngSubmit)=\"search(modal)\" class=\"form-inline my-2 my-lg-0\" #navForm=\"ngForm\">\n                    <input [(ngModel)]=\"searchInput\" [ngModelOptions]=\"{standalone: true}\" class=\"form-control mr-sm-2\" type=\"text\" placeholder=\"Search\" aria-label=\"Search\">\n                    <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\n                </form>\n\n            </div>\n        </nav>\n\n\n    </div>\n\n</nav>\n\n<div class=\"container\">\n\n    <router-outlet></router-outlet>\n</div>\n\n<ng-template #modal id=\"modal\">\n    <div class=\"modal-header\" ng-model=\"modal\">\n        <h4 class=\"modal-title\">Mensaje</h4>\n    </div>\n    <div class=\"modal-body\" [innerHTML]=\"modalBody\">\n    </div>\n</ng-template>"
 
 /***/ }),
 
@@ -46,6 +46,7 @@ module.exports = "<nav class=\"navbar navbar-toggleable-md navbar-inverse fixed-
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__ = __webpack_require__("../../../../@ng-bootstrap/ng-bootstrap/index.js");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__common_auth_service__ = __webpack_require__("../../../../../src/app/common/auth.service.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__angular_router__ = __webpack_require__("../../../router/@angular/router.es5.js");
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__services_user_service__ = __webpack_require__("../../../../../src/app/services/user.service.ts");
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppComponent; });
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
@@ -60,12 +61,15 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 
 
 
+
 var AppComponent = (function () {
-    function AppComponent(modalService, authService, router) {
+    function AppComponent(modalService, authService, router, userService) {
         this.modalService = modalService;
         this.authService = authService;
         this.router = router;
+        this.userService = userService;
         this.title = 'app';
+        this.searchInput = '';
         if (!this.authService.isLoggedIn()) {
             this.router.navigate(['/']);
         }
@@ -74,7 +78,12 @@ var AppComponent = (function () {
         return this.authService.isLoggedIn();
     };
     AppComponent.prototype.search = function (modalSearch) {
-        this.modalBody = "<div>This feature is not implemented yet. Sorry for the inconvenience</div>";
+        var _this = this;
+        this.userService.userByEmail('user/byEmail/' + this.searchInput).subscribe(function (response) {
+            _this.modalBody = "<div>username: " + response.username + "</div><div>email: " + response.email + "</div><div>firstname: " + response.firstname + "</div><div>lastname: " + response.lastname + "</div><div>image: <img src='" + response.image + "' width='150' height='150' /></div>";
+        }, function (error) {
+            _this.modalBody = "<div>No user found with the email address</div>";
+        });
         this.modalService.open(modalSearch);
     };
     AppComponent.prototype.signOut = function () {
@@ -88,10 +97,10 @@ AppComponent = __decorate([
         template: __webpack_require__("../../../../../src/app/app.component.html"),
         styles: [__webpack_require__("../../../../../src/app/app.component.css")]
     }),
-    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__common_auth_service__["a" /* AuthService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__common_auth_service__["a" /* AuthService */]) === "function" && _b || Object, typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_3__angular_router__["b" /* Router */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_3__angular_router__["b" /* Router */]) === "function" && _c || Object])
+    __metadata("design:paramtypes", [typeof (_a = typeof __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_1__ng_bootstrap_ng_bootstrap__["b" /* NgbModal */]) === "function" && _a || Object, typeof (_b = typeof __WEBPACK_IMPORTED_MODULE_2__common_auth_service__["a" /* AuthService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_2__common_auth_service__["a" /* AuthService */]) === "function" && _b || Object, typeof (_c = typeof __WEBPACK_IMPORTED_MODULE_3__angular_router__["b" /* Router */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_3__angular_router__["b" /* Router */]) === "function" && _c || Object, typeof (_d = typeof __WEBPACK_IMPORTED_MODULE_4__services_user_service__["a" /* UserService */] !== "undefined" && __WEBPACK_IMPORTED_MODULE_4__services_user_service__["a" /* UserService */]) === "function" && _d || Object])
 ], AppComponent);
 
-var _a, _b, _c;
+var _a, _b, _c, _d;
 //# sourceMappingURL=app.component.js.map
 
 /***/ }),
@@ -872,7 +881,7 @@ module.exports = module.exports.toString();
 /***/ "../../../../../src/app/pages/user-edit-page/user-edit-page.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n    <h2>Create User</h2>\n    <form [formGroup]=\"userForm\" (ngSubmit)=\"onSubmit()\" novalidate>\n\n        <div class=\"form-group\">\n            <label for=\"username\">Username</label>\n            <input type=\"text\" class=\"form-control\" id=\"username\" formControlName=\"username\" required>\n        </div>\n        <div class=\"form-group\">\n            <label for=\"email\">Email</label>\n            <input type=\"text\" class=\"form-control\" id=\"email\" formControlName=\"email\" required>\n        </div>\n        <div class=\"form-group\">\n            <label for=\"password\">password</label>\n            <input type=\"text\" class=\"form-control\" id=\"password\" formControlName=\"password\" required>\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"firstname\">Name</label>\n            <input type=\"text\" class=\"form-control\" id=\"firstname\" formControlName=\"firstname\" required>\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"lastname\">Last name</label>\n            <input type=\"text\" class=\"form-control\" id=\"lastname\" formControlName=\"lastname\">\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"image\">Image (URL)</label>\n            <input type=\"text\" class=\"form-control\" id=\"image\" formControlName=\"image\">\n        </div>\n\n        <button type=\"submit\" class=\"btn btn-success\">Save</button>\n\n    </form>\n</div>"
+module.exports = "<div class=\"container\">\n    <h2>Create User</h2>\n    <form [formGroup]=\"userForm\" (ngSubmit)=\"onSubmit()\" novalidate>\n\n        <div class=\"form-group\">\n            <label for=\"username\">Username</label>\n            <input type=\"text\" class=\"form-control\" id=\"username\" formControlName=\"username\" required>\n        </div>\n        <div class=\"form-group\">\n            <label for=\"email\">Email</label>\n            <input type=\"text\" class=\"form-control\" id=\"email\" formControlName=\"email\" required>\n        </div>\n        <div class=\"form-group\">\n            <label for=\"password\">password</label>\n            <input type=\"password\" class=\"form-control\" id=\"password\" formControlName=\"password\" required>\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"firstname\">Name</label>\n            <input type=\"text\" class=\"form-control\" id=\"firstname\" formControlName=\"firstname\" required>\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"lastname\">Last name</label>\n            <input type=\"text\" class=\"form-control\" id=\"lastname\" formControlName=\"lastname\">\n        </div>\n\n        <div class=\"form-group\">\n            <label for=\"image\">Image (URL)</label>\n            <input type=\"text\" class=\"form-control\" id=\"image\" formControlName=\"image\">\n        </div>\n\n        <button type=\"submit\" class=\"btn btn-success\">Save</button>\n\n    </form>\n</div>"
 
 /***/ }),
 
@@ -1127,6 +1136,9 @@ var UserService = (function (_super) {
         _this.resourceUrl = 'user/items';
         return _this;
     }
+    UserService.prototype.userByEmail = function (url) {
+        return this.get(url);
+    };
     UserService.prototype.list = function () {
         return this.get(this.resourceUrl);
     };

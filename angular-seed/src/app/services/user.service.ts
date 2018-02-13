@@ -24,6 +24,10 @@ private users: User[] = [
     super(config, authService, http);
   }
 
+  userByEmail(url:string){
+    return this.get(url);
+  }
+
   list(): Observable<User[]> {
     return this.get(this.resourceUrl);
   }

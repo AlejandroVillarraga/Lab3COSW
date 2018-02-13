@@ -85,11 +85,11 @@ public class UserController
     }
 
     @CrossOrigin
-    @RequestMapping( value = "/byEmail/{email}.{dominio}", method = RequestMethod.GET )
-    public ResponseEntity<?>  userByEmail(@PathVariable  String email,@PathVariable  String dominio){
+    @RequestMapping( value = "/byEmail/{email}.{dom}", method = RequestMethod.GET )
+    public ResponseEntity<?>  userByEmail(@PathVariable  String email,@PathVariable  String dom){
 
         try{
-            return new ResponseEntity<>(userService.findUserByEmail(email+"."+dominio),HttpStatus.ACCEPTED);
+            return new ResponseEntity<>(userService.findUserByEmail(email+"."+dom),HttpStatus.ACCEPTED);
         }catch(ServletException e){
             return new ResponseEntity<>(e.getMessage(),HttpStatus.FORBIDDEN);
         }
